@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="homehead">Are You Ready for the Ultimate IPL Quiz 🤔✏️ ?</string>
+    <string name="homesubhead">Made by Aryan Kohli</string>
+    <string name="homebtn">Get Started!</string>
+    <string name="scoreHead">Score : </string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="madeby2">Made by Aryan Kohli with ❤️ </string>
+</resources>
